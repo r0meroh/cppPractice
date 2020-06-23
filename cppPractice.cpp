@@ -1,4 +1,5 @@
 #include <iostream>
+// This is a pointer program to get me familiar with creating, accessing, and manipulating pointers
 
 int main() {
 
